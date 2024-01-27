@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bwinni
-- 👀 I’m interested in computer games design and software engineering.
+- 👀 I’m interested in computer games design, software engineering and web design.
 - 🌱 I’m currently learning HTML, MySQL, Vanilla JS and Python.
 
 <!---
